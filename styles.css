@@ -1,0 +1,22 @@
+         nav{
+             text-align:center;
+             padding:0px;
+             margin:0px;
+         }
+         .row{
+             padding:2px 20px 2px 200px;
+         }
+         .container{
+             padding:0px;
+
+             padding-bottom:20px;
+             background:yellow;
+               background-size:1180px 850px;
+            max-width:100%;
+             background-repeat:no-repeat;
+             
+         }
+         h2{
+             color:white;
+         }
+   
